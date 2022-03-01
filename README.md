@@ -1,4 +1,4 @@
-## Portafolio
+## Portfolio
 
 This is my small project using HTML / CSS / Bootstrap. I will use this to showcase my projects.
 
