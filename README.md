@@ -5,7 +5,7 @@ This is my small project using HTML / CSS / Bootstrap. I will use this to showca
 [Live Heroku Deployment](https://portfolio-phillip.herokuapp.com/)
 
 
-![image](<img width="1435" alt="image" src="https://user-images.githubusercontent.com/99948287/175103820-6c3a275d-8d24-4f43-ab78-7ec6e96413b9.png">)
+![image](https://user-images.githubusercontent.com/99948287/175103820-6c3a275d-8d24-4f43-ab78-7ec6e96413b9.png)
 
 ## Technologies Used
 * HTML
